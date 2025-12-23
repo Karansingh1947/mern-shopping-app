@@ -4,4 +4,4 @@ dist/
 .env.local
 .DS_store
 .vscode/
-password.txt
+password
